@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Política de privacidade - Aventura Amazu
 
-You can use the [editor on GitHub](https://github.com/RafexPipoca/Priva/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esta política de privacidade descreve como a Rafex_Pipoca protege sua privacidade e seus dados.
+Antes de usar qualquer uma de nossas Skills da Alexa ("nossas habilidades", "habilidades da alexa"), leia esta política e nossos Termos de uso da Skill Alexa, os Termos de uso da Alexa e as Políticas de privacidade da Amazon Digital Services LLC (com suas afiliadas, "Amazon").
+Em relação à Amazon "Alexa", este se refere ("significa") o serviço de voz Alexa, que inclui serviços de terceiros (como nossas habilidades) e outros softwares relacionados.
+Se você usar uma de nossas habilidades, concorda plenamente com esta política de privacidade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Geral
 
-### Markdown
+Quando você usa nossas habilidades, precisa conversar com a Alexa. Essa entrada de voz é enviada para a Amazon e para nós, onde a usamos para entender o que nossa habilidade deve fazer por você. Isso é absolutamente necessário para o nosso serviço fornecer uma resposta adequada.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Dados
 
-```markdown
-Syntax highlighted code block
+Nunca coletamos ou compartilhamos dados pessoais com nossas habilidades.
+Para melhorar nossos serviços, analisamos automaticamente com que frequência as declarações são faladas e outras análises. Isso é feito automaticamente pela Amazon no Amazon Developer Portal.
+Para algumas de nossas habilidades, é necessário salvar dados para você, em nossos bancos de dados. Que ficam na Amazon. Esses dados estão conectados apenas ao seu Alexa-UserId, mas nunca ao seu nome ou a qualquer outra informação pessoal. No caso de nossa habilidade "Aventura Amazu", Não salvamos nenhum dado seu. Durante  o uso da Skill, gravamos o nome do personagem que você escolhe. Após isso, eles são deletados.
+Toda e qualquer informação pessoal coletada será tratada em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º67/98).
 
-# Header 1
-## Header 2
-### Header 3
+## Alterações
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RafexPipoca/Priva/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nossas habilidades ou partes dela podem mudar ou ser atualizadas a qualquer momento. Além disso, esta Política de Privacidade pode mudar. Você pode encontrar um link para esta política na página de descrição da habilidade no Alexa App ou na Alexa Store. O uso continuado de nossa habilidade após alterações na Política de Privacidade ou na habilidade em si será visto como sua aceitação para ambas.
