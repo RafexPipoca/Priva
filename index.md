@@ -16,6 +16,11 @@ Para melhorar nossos serviços, analisamos automaticamente com que frequência a
 Para algumas de nossas habilidades, é necessário salvar dados para você, em nossos bancos de dados. Que ficam na Amazon. Esses dados estão conectados apenas ao seu Alexa-UserId, mas nunca ao seu nome ou a qualquer outra informação pessoal. No caso de nossa habilidade "Aventura Amazu", Não salvamos nenhum dado seu. Durante  o uso da Skill, gravamos o nome do personagem que você escolhe. Após isso, eles são deletados.
 Toda e qualquer informação pessoal coletada será tratada em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º67/98).
 
+## Log Data
+
+Para poder investigar alguns erros que a Skill apresenta, alguns dados de logs são armazenados no servidor da Amazon CloudWatch. Esses logs podem conter alguma infomração pessoal de identificação, mas todos esses dados estão seguros e não serão vendidos ou compartilhados com terceiros, mantendo a privacidade do usuário.
+
+
 ## Alterações
 
 Nossas habilidades ou partes dela podem mudar ou ser atualizadas a qualquer momento. Além disso, esta Política de Privacidade pode mudar. Você pode encontrar um link para esta política na página de descrição da habilidade no Alexa App ou na Alexa Store. O uso continuado de nossa habilidade após alterações na Política de Privacidade ou na habilidade em si será visto como sua aceitação para ambas.
