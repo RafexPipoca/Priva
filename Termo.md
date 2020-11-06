@@ -1,4 +1,4 @@
-# TERMOS E CONDIÇÕES GERAIS DE USO DA SKILL  AVENTURA AMAZU
+# TERMOS E CONDIÇÕES GERAIS DE USO - SKILL AVENTURA AMAZU
 
 Estes Termos de uso e condições gerais aplicam-se ao uso dos serviços oferecidos por Rafex_Pipoca, no uso da Skill, doravante nominada “Aventura Amazu”.
 
