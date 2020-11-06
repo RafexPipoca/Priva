@@ -18,7 +18,7 @@ Toda e qualquer informação pessoal coletada será tratada em concordância com
 
 ## Log Data
 
-Para poder investigar alguns erros que a Skill apresenta, alguns dados de logs são armazenados no servidor da Amazon CloudWatch. Esses logs podem conter alguma infomração pessoal de identificação, mas todos esses dados estão seguros e não serão vendidos ou compartilhados com terceiros, mantendo a privacidade do usuário.
+Para poder investigar alguns erros que a Skill apresenta, alguns dados de logs são armazenados no servidor da Amazon CloudWatch. Esses logs podem conter alguma informação pessoal de identificação, como por exemplo o nome que o usuário escolhe para o personagem. Mas todos esses dados estão seguros e não serão vendidos ou compartilhados com terceiros, mantendo a privacidade do usuário.
 
 
 ## Alterações
