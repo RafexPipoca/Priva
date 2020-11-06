@@ -58,7 +58,7 @@ Estes tipos de comportamento poderão ser sancionados com o cancelamento do anú
 
 Qualquer intromissão, tentativa ou atividade que viole ou contrarie as leis de direito de propriedade intelectual e/ou as proibições estipuladas nestes Termos e condições gerais de uso, tornarão o responsável passível das ações legais pertinentes, bem como das sanções aqui previstas, sendo ainda responsável pelas indenizações por eventuais danos causados.
 
-$$ SEÇÃO 08 – PENALIDADES
+## SEÇÃO 08 – PENALIDADES
 
 Sem prejuízo de outras medidas cabíveis, a “Rafex_Pipoca”poderá advertir, suspender, temporária ou definitivamente, a conta de um Usuário, cancelar os seus anúncios ou aplicar uma sanção que impacte negativamente em sua reputação, a qualquer tempo, iniciando as ações legais cabíveis e/ou suspendendo a prestação de seus Serviços.
 
