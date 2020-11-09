@@ -13,7 +13,7 @@ Quando você usa nossas habilidades, precisa conversar com a Alexa. Essa entrada
 
 Nunca coletamos ou compartilhamos dados pessoais com nossas habilidades.
 Para melhorar nossos serviços, analisamos automaticamente com que frequência as declarações são faladas e outras análises. Isso é feito automaticamente pela Amazon no Amazon Developer Portal.
-Para algumas de nossas habilidades, é necessário salvar dados para você, em nossos bancos de dados. Que ficam na Amazon. Esses dados estão conectados apenas ao seu Alexa-UserId, mas nunca ao seu nome ou a qualquer outra informação pessoal. No caso de nossa habilidade "Aventura Amazu", Não salvamos nenhum dado seu. Durante  o uso da Skill, gravamos o nome do personagem que você escolhe. Após isso, eles são deletados.
+Para algumas de nossas habilidades, é necessário salvar dados para você, em nossos bancos de dados. Que ficam na Amazon. Esses dados estão conectados apenas ao seu Alexa-UserId, mas nunca ao seu nome ou a qualquer outra informação pessoal. No caso de nossa habilidade "Aventura Amazu", Não salvamos nenhum dado seu. Durante  o uso da Skill, usamos o nome do personagem que você escolhe, durante a sessão da Skill. Assim que a Skill é fechada os dados são deletados.
 Toda e qualquer informação pessoal coletada será tratada em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º67/98).
 
 ## Log Data
