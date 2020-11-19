@@ -45,6 +45,8 @@ A “Rafex_Pipoca” poderá alterar, a qualquer tempo, estes Termos e condiçõ
 
 Toda informação ou Dado Pessoal do Usuário é armazenado em servidores ou meios magnéticos de alta segurança. Salvo com relação às informações que são publicadas no aplicativo/Site, o “Rafex_Pipoca” adotará todas as medidas possíveis para manter a confidencialidade e a segurança das informações sigilosas, porém não se responsabilizará por eventuais prejuízos que sejam decorrentes da divulgação de tais informações por parte de terceiros que utilizem as redes públicas ou a internet, subvertendo os sistemas de segurança para acessar as informações de Usuários.
 
+Caso o usuário queira excluir todo seu histórico de conversa, que fica salva nos servidores da Amazon. Basta acessar o seu aplicativo e selecionar a opção de excluir histórico.
+Para mais informações, acesse o canal de dúvidas frequentes, que fica no aplicativo "Alexa" do Smartphone onde a conta está vinculada.
 
 
 ## SEÇÃO 05 – DAS OBRIGAÇÕES DOS USUÁRIOS
