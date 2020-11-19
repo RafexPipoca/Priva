@@ -49,6 +49,7 @@ Caso o usuário queira excluir todo seu histórico de conversa, que fica salva n
 Para mais informações, acesse o canal de dúvidas frequentes, que fica no aplicativo "Alexa" do Smartphone onde a conta está vinculada.
 
 
+
 ## SEÇÃO 05 – DAS OBRIGAÇÕES DOS USUÁRIOS
 
 Os Usuários interessados em comprar produtos e divulgar em nossa Skill, devem previamente acionar o desenvolver para solicitar uma reunião. 
