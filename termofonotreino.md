@@ -1,33 +1,37 @@
 # TERMOS E CONDIÇÕES GERAIS DE USO - SKILL FONO TREINO
 
-Estes Termos de uso e condições gerais aplicam-se ao uso dos serviços oferecidos por Rafex_Pipoca, no uso da Skill, doravante nominada “Aventura Amazu”.
+Estes Termos de uso e condições gerais aplicam-se ao uso dos serviços oferecidos por Rafael José do Nascimento, no uso da Skill, doravante nominada “Fono Treino”.
 
-Qualquer pessoa, doravante nominada Usuário, que pretenda utilizar os Serviços da “Rafex_Pipoca”, deverá aceitar os Termos e condições gerais e todas as demais políticas e princípios que o regem.
 
-A aceitação destes Termos e condições gerais é absolutamente indispensável à utilização do aplicativo e dos Serviços prestados pela “Rafex_Pipoca”.
+Qualquer pessoa, doravante nominada Usuário, que pretenda utilizar os Serviços de “Rafael José do Nascimento”, deverá aceitar os Termos e condições gerais e todas as demais políticas e princípios que o regem.
 
-O Usuário deverá ler, certificar-se de haver entendido e aceitar todas as condições estabelecidas nos Termos de uso e condições gerais e nas Políticas de privacidade, assim como nos demais documentos a eles incorporados por referência, antes de seu cadastro como Usuário da “Rafex_Pipoca”.
+A aceitação destes Termos e condições gerais é absolutamente indispensável à utilização do aplicativo e dos Serviços prestados por “Rafael José do Nascimento”. Que utilizará o nome de desenvolvedor cadastrado no console de desenvolvedor da Amazon, "Rafex_Pipoca" durante as citações do termo de responsabilidade.
 
-Em caso de dúvidas, comentários ou sugestões sobre esses termos ou sobre os Serviços, entre em contato conosco pelo e-mail aventura.amazu@gmail.com
+É recomendado sempre, o acompanhamento de um adulto responsável, durante a utilização da Skill "Fono Treino".
+
+
+O Usuário deverá ler, certificar-se de haver entendido e aceitar todas as condições estabelecidas nos Termos de uso e condições gerais e nas Políticas de privacidade, assim como nos demais documentos a eles incorporados por referência, antes de seu cadastro como Usuário, de uma Skill, criáda por "Rafael José do Nascimento".
+
+Em caso de dúvidas, comentários ou sugestões sobre esses termos ou sobre os Serviços, entre em contato conosco pelo e-mail rafex.pipoca@gmail.com
 
 
 ## SEÇÃO 01 – DOS SERVIÇOS (OBJETOS)
 
-Os Serviços objeto dos presentes Termos e Condições Gerais de Uso consistem em (i) proporcionar entretenimento, com base em uma história áudio-descritiva, para que os Usuários possam realizar ações de escolha, que definirão o rumo da história ao longo do jogo.
+Os Serviços objeto dos presentes Termos e Condições Gerais de Uso consistem em (i) proporcionar entretenimento, com base em exercícios de fonoaudilogia, para que os Usuários possam praticar e melhorar a eloquência de forma geral.
 
 ## SEÇÃO 02 – DO CADASTRO DOS USUÁRIOS
 
-O Usuário deverá se inscrever em uma conta da Amazon, para poder realizar a ativação da Skill, Aventura Amazu.
+O Usuário deverá se inscrever em uma conta da Amazon, para poder realizar a ativação da Skill, "Fono Treino".
 
 Caso o Usuário de nossos Serviços seja pessoa jurídica, esta garante estar regularmente representada e inscrita na Receita Federal do Brasil. Se pessoa natural (física), o Usuário confirma e garante ser maior de idade e plenamente capaz para assinar um contrato vinculativo (É proibido o cadastro de Usuários que não tenham plena capacidade civil, salvo as hipóteses legais de representação ou assistência).
 
-A “Rafex_Pipoca” não se responsabiliza pela correção dos Dados Pessoais inseridos por seus Usuários. Os Usuários garantem e respondem, em qualquer caso, civil e criminalmente pela veracidade, exatidão e autenticidade, dos Dados Pessoais cadastrados.
+“Rafex_Pipoca” não se responsabiliza pela correção dos Dados Pessoais inseridos por seus Usuários. Os Usuários garantem e respondem, em qualquer caso, civil e criminalmente pela veracidade, exatidão e autenticidade, dos Dados Pessoais cadastrados.
 
-O apelido que o Usuário utiliza na “Aventura Amazu” não poderá guardar semelhança com o “Rafex_Pipoca”, suas marcas e nomes de domínio ou outro bem de propriedade intelectual, tampouco poderá ser utilizado qualquer apelido que insinue ou sugira que os produtos anunciados pertencem ou tenham qualquer relação com a “Rafex_Pipoca”. Também serão excluídos apelidos considerados ofensivos, bem como os que contenham Dados Pessoais do Usuário ou alguma URL ou endereço eletrônico.
+O nome de usuário ou apelido, que é fornecido pelo usuário na “Fono Treino”  bem de propriedade intelectual, terão excluídos apelidos considerados ofensivos, bem como os que contenham Dados Pessoais do Usuário ou alguma URL ou endereço eletrônico.
 
 O Usuário deverá proteger a segurança e não compartilhará sua conta ou senha com ninguém, sendo pessoalmente e integralmente responsável por qualquer atividade associada à conta.
 
-A “Rafex_Pipoca”se reserva no direito de recusar qualquer solicitação de cadastro e de suspender um cadastro previamente aceito, que esteja em desacordo com as políticas e regras dos presentes Termos e condições gerais.
+"Rafex_Pipoca", se reserva no direito de recusar qualquer solicitação de cadastro e de suspender um cadastro previamente aceito, que esteja em desacordo com as políticas e regras dos presentes Termos e condições gerais.
 
 O Usuário reconhece que é o único responsável pela veracidade e pelo conteúdo disponibilizado no seu anúncio, isentando a “Rafex_Pipoca”de qualquer responsabilidade nesse sentido, bem como declara, nos termos da lei, estarem quaisquer produtos anunciados em plena regularidade.
 
@@ -47,7 +51,6 @@ Toda informação ou Dado Pessoal do Usuário é armazenado em servidores ou mei
 
 Os Usuários interessados em comprar produtos e divulgar em nossa Skill, devem previamente acionar o desenvolver para solicitar uma reunião. 
 
-
 ## SEÇÃO 06 – PRÁTICAS VEDADAS
 
 Os Usuários não poderão, entre outras atitudes previstas nestes Termos e condições gerais e seus anexos: a) praticar atos ilícitos; b) infringir ou violar nossos direitos de propriedade intelectual e industrial ou os direitos de propriedade intelectual e industrial de terceiros; c) apresentar informações falsas ou enganosas; d) manipular os preços dos produtos anunciados; e) interferir nas negociações entre outros Usuários; f) divulgar dados pessoais de contato por qualquer meio, em qualquer espaço do aplicativo/site, antes de manifestada a intenção na compra do item anunciado; g) agredir, caluniar, injuriar ou difamar outros Usuários.
@@ -64,9 +67,13 @@ Sem prejuízo de outras medidas cabíveis, a “Rafex_Pipoca”poderá advertir,
 
 ## SEÇÃO 09 - LIMITAÇÃO DE RESPONSABILIDADE
 
-A “Rafex_Pipoca” não se responsabiliza por vícios ou defeitos técnicos e/ou operacionais oriundos do sistema do Usuário ou de terceiros.
+A “Rafex_Pipoca”, não se responsabiliza por vícios ou defeitos técnicos e/ou operacionais oriundos do sistema do Usuário ou de terceiros.
 
-A “Rafex_Pipoca”não se responsabiliza, por conseguinte, pela existência, quantidade, qualidade, estado, integridade ou legitimidade dos produtos oferecidos, adquiridos ou alienados pelos Usuários, assim como pela capacidade para contratar dos Usuários ou pela veracidade dos dados pessoais por eles inseridos em seus cadastros. 
+A “Rafex_Pipoca”, não se responsabiliza, por conseguinte, pela existência, quantidade, qualidade, estado, integridade ou legitimidade dos produtos oferecidos, adquiridos ou alienados pelos Usuários, assim como pela capacidade para contratar dos Usuários ou pela veracidade dos dados pessoais por eles inseridos em seus cadastros. 
+
+A "Rafex_Pipoca", não ser responsabiliza por eventuais acidentes que possam ocorrer, mediante do uso da Skill "fono treino". Os exercícios propostos e dicas, tem base científica e em sua boa prática, não oferecem risco a saúde fisica e mental de seu utilizador.
+
+Ao utilizar a Skill "Fono Treino", o usuário se responsabiliza por qualquer tipo de dano, decorrente de algum exercício, dica ou recomentação, proviniente da interação com a Skill.
 
 A “Rafex_Pipoca”não será responsável pelo efetivo cumprimento das obrigações assumidas pelos Usuários. 
 
