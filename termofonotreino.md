@@ -71,7 +71,7 @@ A “Rafex_Pipoca”, não se responsabiliza por vícios ou defeitos técnicos e
 
 A “Rafex_Pipoca”, não se responsabiliza, por conseguinte, pela existência, quantidade, qualidade, estado, integridade ou legitimidade dos produtos oferecidos, adquiridos ou alienados pelos Usuários, assim como pela capacidade para contratar dos Usuários ou pela veracidade dos dados pessoais por eles inseridos em seus cadastros. 
 
-A "Rafex_Pipoca", não ser responsabiliza por eventuais acidentes que possam ocorrer, mediante do uso da Skill "fono treino". Os exercícios propostos e dicas, tem base científica e em sua boa prática, não oferecem risco a saúde fisica e mental de seu utilizador.
+A "Rafex_Pipoca", não se responsabiliza por eventuais acidentes que possam ocorrer, mediante do uso da Skill "fono treino". Os exercícios propostos e dicas, tem base científica e em sua boa prática, não oferecem risco a saúde fisica e mental de seu utilizador.
 
 Ao utilizar a Skill "Fono Treino", o usuário se responsabiliza por qualquer tipo de dano, decorrente de algum exercício, dica ou recomentação, proviniente da interação com a Skill.
 
