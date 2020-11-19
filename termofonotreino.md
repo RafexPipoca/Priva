@@ -1,9 +1,9 @@
 # TERMOS E CONDIÇÕES GERAIS DE USO - SKILL FONO TREINO
 
-Estes Termos de uso e condições gerais aplicam-se ao uso dos serviços oferecidos por Rafael José do Nascimento, no uso da Skill, doravante nominada “Fono Treino”.
+Estes Termos de uso e condições gerais aplicam-se ao uso dos serviços oferecidos por "Rafex_Pipoca" desenvolvedor, no uso da Skill, doravante nominada “Fono Treino”.
 
 
-Qualquer pessoa, doravante nominada Usuário, que pretenda utilizar os Serviços de “Rafael José do Nascimento”, deverá aceitar os Termos e condições gerais e todas as demais políticas e princípios que o regem.
+Qualquer pessoa, doravante nominada Usuário, que pretenda utilizar os Serviços de “Rafex_Pipoca”, deverá aceitar os Termos e condições gerais e todas as demais políticas e princípios que o regem.
 
 A aceitação destes Termos e condições gerais é absolutamente indispensável à utilização do aplicativo e dos Serviços prestados por “Rafael José do Nascimento”. Que utilizará o nome de desenvolvedor cadastrado no console de desenvolvedor da Amazon, "Rafex_Pipoca" durante as citações do termo de responsabilidade.
 
