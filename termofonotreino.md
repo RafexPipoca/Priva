@@ -53,6 +53,7 @@ Para mais informações, acesse o canal de dúvidas frequentes, que fica no apli
 ## SEÇÃO 05 – DAS OBRIGAÇÕES DOS USUÁRIOS
 
 Os Usuários interessados em comprar produtos e divulgar em nossa Skill, devem previamente acionar o desenvolver para solicitar uma reunião. 
+Os usuário  concorda e está ciente de que a utilização dessa habilidade, não substitúi o acompanhamento de um médico, no tratamento de qualquer que seja sua infêrmidade ou deficiencia fisica ou intelectual.
 
 ## SEÇÃO 06 – PRÁTICAS VEDADAS
 
@@ -70,15 +71,15 @@ Sem prejuízo de outras medidas cabíveis, a “Rafex_Pipoca”poderá advertir,
 
 ## SEÇÃO 09 - LIMITAÇÃO DE RESPONSABILIDADE
 
-A “Rafex_Pipoca”, não se responsabiliza por vícios ou defeitos técnicos e/ou operacionais oriundos do sistema do Usuário ou de terceiros.
+O desenvolvedor, “Rafex_Pipoca”, não se responsabiliza por vícios ou defeitos técnicos e/ou operacionais oriundos do sistema do Usuário ou de terceiros.
 
-A “Rafex_Pipoca”, não se responsabiliza, por conseguinte, pela existência, quantidade, qualidade, estado, integridade ou legitimidade dos produtos oferecidos, adquiridos ou alienados pelos Usuários, assim como pela capacidade para contratar dos Usuários ou pela veracidade dos dados pessoais por eles inseridos em seus cadastros. 
+O desenvolvedor “Rafex_Pipoca”, não se responsabiliza, por conseguinte, pela existência, quantidade, qualidade, estado, integridade ou legitimidade dos produtos oferecidos, adquiridos ou alienados pelos Usuários, assim como pela capacidade para contratar dos Usuários ou pela veracidade dos dados pessoais por eles inseridos em seus cadastros. 
 
-A "Rafex_Pipoca", não se responsabiliza por eventuais acidentes que possam ocorrer, mediante do uso da Skill "fono treino". Os exercícios propostos e dicas, tem base científica e em sua boa prática, não oferecem risco a saúde fisica e mental de seu utilizador.
+O desenvolvedor "Rafex_Pipoca", não se responsabiliza por eventuais acidentes que possam ocorrer, mediante do uso da habilidade "fono treino". Os exercícios propostos e dicas, tem base científica e em sua boa prática, não oferecem risco a saúde fisica e mental de seu utilizador.
 
-Ao utilizar a Skill "Fono Treino", o usuário se responsabiliza por qualquer tipo de dano, decorrente de algum exercício, dica ou recomentação, proviniente da interação com a Skill.
+Ao utilizar a Skill "Fono Treino", o usuário se responsabiliza por qualquer tipo de dano, decorrente de algum exercício, dica ou recomentação, proviniente da interação com a Alexa, no uso da habilidade em questão.
 
-A “Rafex_Pipoca”não será responsável pelo efetivo cumprimento das obrigações assumidas pelos Usuários. 
+O desenvolvedor “Rafex_Pipoca”não será responsável pelo efetivo cumprimento das obrigações assumidas pelos Usuários. 
 
 ## SEÇÃO 10– LEGISLAÇÃO APLICÁVEL E FORO DE ELEIÇÃO
 
