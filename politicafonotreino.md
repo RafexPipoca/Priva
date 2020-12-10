@@ -1,6 +1,6 @@
 # Política de privacidade - Fono Treino
 
-Esta política de privacidade descreve como a Rafex_Pipoca protege sua privacidade e seus dados.
+Esta política de privacidade descreve como o desenvolvedor, Rafex_Pipoca protege sua privacidade e seus dados.
 Antes de usar qualquer uma de nossas Skills da Alexa ("nossas habilidades", "habilidades da alexa"), leia esta política e nossos Termos de uso da Skill Alexa, os Termos de uso da Alexa e as Políticas de privacidade da Amazon Digital Services LLC (com suas afiliadas, "Amazon").
 Em relação à Amazon "Alexa", este se refere ("significa") o serviço de voz Alexa, que inclui serviços de terceiros (como nossas habilidades) e outros softwares relacionados.
 Se você usar uma de nossas habilidades, concorda plenamente com esta política de privacidade.
