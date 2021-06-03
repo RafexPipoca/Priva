@@ -86,7 +86,3 @@ The developer "Rafex_Pipoca" will not be responsible for the effective fulfillme
  All items of these Terms and conditions of use are governed by the laws of the Federative Republic of Brazil. For all matters relating to the interpretation, compliance or any other question related to these Terms and General Conditions of Use, the parties agree to submit to judicial proceedings.
 
 
-Translated with www.DeepL.com/Translator (free version)
-
-
-Translated with www.DeepL.com/Translator (free version)
