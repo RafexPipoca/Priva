@@ -1,4 +1,4 @@
-# Privacy Policy - Phono Training
+# Privacy Policy - Training Phono 
 
 This privacy policy describes how the developer, Rafex_Pipoca protects your privacy and your data.
 Before using any of our Alexa Skills ("our skills", "alexa skills"), please read this policy and our Alexa Skill Terms of Use, the Alexa Terms of Use, and the Privacy Policies of Amazon Digital Services LLC (with its affiliates, "Amazon").
